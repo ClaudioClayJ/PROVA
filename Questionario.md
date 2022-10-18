@@ -12,3 +12,6 @@ O que é um repositório?
 
  O que é pull?
  É puxar as alterações do repositório remoto para o repositório local
+
+ O que é branch?
+ è ramificações do repositório ou projeto
