@@ -15,3 +15,6 @@ O que é um repositório?
 
  O que é branch?
  è ramificações do repositório ou projeto
+
+ O que é pull request?
+É uma Solicitação de Alteração
