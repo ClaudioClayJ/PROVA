@@ -18,3 +18,6 @@ O que é um repositório?
 
  O que é pull request?
 É uma Solicitação de Alteração
+
+O que é fork?
+É a copia de um repositório de terceiros
