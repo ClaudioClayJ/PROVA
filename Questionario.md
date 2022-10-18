@@ -21,3 +21,6 @@ O que é um repositório?
 
 O que é fork?
 É a copia de um repositório de terceiros
+
+ O que é um VCS?
+ É software de controle de versão
